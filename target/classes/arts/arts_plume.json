@@ -1,0 +1,308 @@
+{
+    "list": [
+        {
+            "lvl": 20,
+            "set": "HUSK_OF_OPULENT_DREAMS",
+            "subs": {
+                "hpF": 0,
+                "hpP": 0,
+                "atkF": 0,
+                "atkP": 0,
+                "defF": 19,
+                "defP": 19.7,
+                "em": 0,
+                "er": 9.1,
+                "crit_rate": 0,
+                "crit_dmg": 13.2
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "HUSK_OF_OPULENT_DREAMS",
+            "subs": {
+                "hpF": 478,
+                "hpP": 0,
+                "atkF": 0,
+                "atkP": 0,
+                "defF": 0,
+                "defP": 19,
+                "em": 0,
+                "er": 5.8,
+                "crit_rate": 0,
+                "crit_dmg": 14
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "HUSK_OF_OPULENT_DREAMS",
+            "subs": {
+                "hpF": 0,
+                "hpP": 0,
+                "atkF": 0,
+                "atkP": 15.7,
+                "defF": 19,
+                "defP": 12.4,
+                "em": 0,
+                "er": 0,
+                "crit_rate": 6.2,
+                "crit_dmg": 0
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "EMBLEM_OF_SEVERED_FATE",
+            "subs": {
+                "hpF": 0,
+                "hpP": 0,
+                "atkF": 0,
+                "atkP": 0,
+                "defF": 39,
+                "defP": 0,
+                "em": 0,
+                "er": 4.5,
+                "crit_rate": 7,
+                "crit_dmg": 17.9
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "EMBLEM_OF_SEVERED_FATE",
+            "subs": {
+                "hpF": 0,
+                "hpP": 9.3,
+                "atkF": 0,
+                "atkP": 0,
+                "defF": 39,
+                "defP": 0,
+                "em": 0,
+                "er": 0,
+                "crit_rate": 6.6,
+                "crit_dmg": 10.9
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "EMBLEM_OF_SEVERED_FATE",
+            "subs": {
+                "hpF": 0,
+                "hpP": 0,
+                "atkF": 0,
+                "atkP": 16.9,
+                "defF": 0,
+                "defP": 7.3,
+                "em": 0,
+                "er": 0,
+                "crit_rate": 3.1,
+                "crit_dmg": 18.7
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "EMBLEM_OF_SEVERED_FATE",
+            "subs": {
+                "hpF": 0,
+                "hpP": 0,
+                "atkF": 0,
+                "atkP": 0,
+                "defF": 44,
+                "defP": 0,
+                "em": 42,
+                "er": 0,
+                "crit_rate": 6.6,
+                "crit_dmg": 13.2
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "SHIMENAWAS_REMINISCENCE",
+            "subs": {
+                "hpF": 0,
+                "hpP": 11.7,
+                "atkF": 0,
+                "atkP": 10.5,
+                "defF": 0,
+                "defP": 0,
+                "em": 0,
+                "er": 0,
+                "crit_rate": 3.9,
+                "crit_dmg": 19.4
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "HEART_OF_DEPTH",
+            "subs": {
+                "hpF": 687,
+                "hpP": 0,
+                "atkF": 0,
+                "atkP": 5.3,
+                "defF": 0,
+                "defP": 0,
+                "em": 0,
+                "er": 0,
+                "crit_rate": 7,
+                "crit_dmg": 13.2
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "ARCHAIC_PETRA",
+            "subs": {
+                "hpF": 0,
+                "hpP": 4.7,
+                "atkF": 0,
+                "atkP": 0,
+                "defF": 0,
+                "defP": 15.3,
+                "em": 0,
+                "er": 0,
+                "crit_rate": 6.2,
+                "crit_dmg": 14
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "ARCHAIC_PETRA",
+            "subs": {
+                "hpF": 0,
+                "hpP": 9.9,
+                "atkF": 0,
+                "atkP": 14,
+                "defF": 0,
+                "defP": 0,
+                "em": 0,
+                "er": 0,
+                "crit_rate": 3.9,
+                "crit_dmg": 15.5
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "NOBLESSE_OBLIGE",
+            "subs": {
+                "hpF": 0,
+                "hpP": 11.7,
+                "atkF": 0,
+                "atkP": 0,
+                "defF": 0,
+                "defP": 0,
+                "em": 68,
+                "er": 5.2,
+                "crit_rate": 9.7,
+                "crit_dmg": 0
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "NOBLESSE_OBLIGE",
+            "subs": {
+                "hpF": 239,
+                "hpP": 0,
+                "atkF": 0,
+                "atkP": 10.5,
+                "defF": 0,
+                "defP": 12.4,
+                "em": 0,
+                "er": 16.2,
+                "crit_rate": 0,
+                "crit_dmg": 0
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "CRIMSON_WITCH_OF_FLAMES",
+            "subs": {
+                "hpF": 0,
+                "hpP": 0,
+                "atkF": 0,
+                "atkP": 0,
+                "defF": 0,
+                "defP": 12.4,
+                "em": 40,
+                "er": 0,
+                "crit_rate": 6.2,
+                "crit_dmg": 10.9
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "CRIMSON_WITCH_OF_FLAMES",
+            "subs": {
+                "hpF": 535,
+                "hpP": 0,
+                "atkF": 0,
+                "atkP": 16.3,
+                "defF": 0,
+                "defP": 0,
+                "em": 0,
+                "er": 0,
+                "crit_rate": 6.2,
+                "crit_dmg": 5.4
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "THUNDERING_FURY",
+            "subs": {
+                "hpF": 1374,
+                "hpP": 0,
+                "atkF": 0,
+                "atkP": 0,
+                "defF": 0,
+                "defP": 0,
+                "em": 21,
+                "er": 6.5,
+                "crit_rate": 0,
+                "crit_dmg": 14.8
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "VIRIDESCENT_VENERER",
+            "subs": {
+                "hpF": 0,
+                "hpP": 0,
+                "atkF": 0,
+                "atkP": 4.7,
+                "defF": 0,
+                "defP": 0,
+                "em": 21,
+                "er": 16.2,
+                "crit_rate": 8.9,
+                "crit_dmg": 0
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "BLIZZARD_STRAYER",
+            "subs": {
+                "hpF": 0,
+                "hpP": 0,
+                "atkF": 0,
+                "atkP": 0,
+                "defF": 0,
+                "defP": 14.6,
+                "em": 0,
+                "er": 18.8,
+                "crit_rate": 6.6,
+                "crit_dmg": 10.9
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "BLIZZARD_STRAYER",
+            "subs": {
+                "hpF": 0,
+                "hpP": 0,
+                "atkF": 0,
+                "atkP": 0,
+                "defF": 32,
+                "defP": 0,
+                "em": 21,
+                "er": 11.7,
+                "crit_rate": 0,
+                "crit_dmg": 19.4
+            }
+        }
+    ]
+}
