@@ -1,0 +1,276 @@
+{
+    "list": [
+        {
+            "lvl": 20,
+            "set": "HUSK_OF_OPULENT_DREAMS",
+            "main": "GEO",
+            "subs": {
+                "hpF": 0,
+                "hpP": 9.3,
+                "atkF": 0,
+                "atkP": 0,
+                "defF": 23,
+                "defP": 11.7,
+                "em": 0,
+                "er": 0,
+                "crit_rate": 0,
+                "crit_dmg": 17.9
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "EMBLEM_OF_SEVERED_FATE",
+            "main": "PYRO",
+            "subs": {
+                "hpF": 0,
+                "hpP": 0,
+                "atkF": 0,
+                "atkP": 10.5,
+                "defF": 16,
+                "defP": 0,
+                "em": 61,
+                "er": 16.2,
+                "crit_rate": 0,
+                "crit_dmg": 0
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "SHIMENAWAS_REMINISCENCE",
+            "main": "HYDRO",
+            "subs": {
+                "hpF": 0,
+                "hpP": 0,
+                "atkF": 0,
+                "atkP": 9.3,
+                "defF": 46,
+                "defP": 0,
+                "em": 0,
+                "er": 0,
+                "crit_rate": 7.4,
+                "crit_dmg": 13.2
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "HEART_OF_DEPTH",
+            "main": "HYDRO",
+            "subs": {
+                "hpF": 0,
+                "hpP": 0,
+                "atkF": 31,
+                "atkP": 0,
+                "defF": 0,
+                "defP": 0,
+                "em": 37,
+                "er": 10.4,
+                "crit_rate": 0,
+                "crit_dmg": 19.4
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "HEART_OF_DEPTH",
+            "main": "GEO",
+            "subs": {
+                "hpF": 299,
+                "hpP": 0,
+                "atkF": 0,
+                "atkP": 15.2,
+                "defF": 0,
+                "defP": 0,
+                "em": 0,
+                "er": 14.2,
+                "crit_rate": 0,
+                "crit_dmg": 7.8
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "HEART_OF_DEPTH",
+            "main": "ANEMO",
+            "subs": {
+                "hpF": 0,
+                "hpP": 0,
+                "atkF": 0,
+                "atkP": 0,
+                "defF": 39,
+                "defP": 0,
+                "em": 16,
+                "er": 10.4,
+                "crit_rate": 10.1,
+                "crit_dmg": 0
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "NOBLESSE_OBLIGE",
+            "main": "CRYO",
+            "subs": {
+                "hpF": 0,
+                "hpP": 0,
+                "atkF": 0,
+                "atkP": 10.5,
+                "defF": 0,
+                "defP": 13.1,
+                "em": 0,
+                "er": 16.2,
+                "crit_rate": 0,
+                "crit_dmg": 13.1
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "NOBLESSE_OBLIGE",
+            "main": "CRYO",
+            "subs": {
+                "hpF": 0,
+                "hpP": 0,
+                "atkF": 19,
+                "atkP": 0,
+                "defF": 21,
+                "defP": 0,
+                "em": 0,
+                "er": 28.5,
+                "crit_rate": 0,
+                "crit_dmg": 13.2
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "NOBLESSE_OBLIGE",
+            "main": "PYRO",
+            "subs": {
+                "hpF": 717,
+                "hpP": 0,
+                "atkF": 14,
+                "atkP": 0,
+                "defF": 0,
+                "defP": 0,
+                "em": 0,
+                "er": 11,
+                "crit_rate": 6.2,
+                "crit_dmg": 0
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "NOBLESSE_OBLIGE",
+            "main": "GEO",
+            "subs": {
+                "hpF": 0,
+                "hpP": 0,
+                "atkF": 43,
+                "atkP": 0,
+                "defF": 0,
+                "defP": 12.4,
+                "em": 0,
+                "er": 0,
+                "crit_rate": 6.6,
+                "crit_dmg": 7
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "NOBLESSE_OBLIGE",
+            "main": "HP",
+            "subs": {
+                "hpF": 538,
+                "hpP": 0,
+                "atkF": 33,
+                "atkP": 10.5,
+                "defF": 0,
+                "defP": 0,
+                "em": 0,
+                "er": 0,
+                "crit_rate": 6.6,
+                "crit_dmg": 0
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "NOBLESSE_OBLIGE",
+            "main": "HP",
+            "subs": {
+                "hpF": 777,
+                "hpP": 0,
+                "atkF": 18,
+                "atkP": 0,
+                "defF": 16,
+                "defP": 0,
+                "em": 0,
+                "er": 18.1,
+                "crit_rate": 0,
+                "crit_dmg": 0
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "WANDERERS_TROUPE",
+            "main": "PYRO",
+            "subs": {
+                "hpF": 0,
+                "hpP": 9.3,
+                "atkF": 37,
+                "atkP": 0,
+                "defF": 0,
+                "defP": 0,
+                "em": 56,
+                "er": 0,
+                "crit_rate": 7.4,
+                "crit_dmg": 0
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "GLADIATORS_FINALE",
+            "main": "ELECTRO",
+            "subs": {
+                "hpF": 747,
+                "hpP": 0,
+                "atkF": 0,
+                "atkP": 4.1,
+                "defF": 0,
+                "defP": 0,
+                "em": 0,
+                "er": 0,
+                "crit_rate": 10.9,
+                "crit_dmg": 7
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "LAVAWALKER",
+            "main": "PYRO",
+            "subs": {
+                "hpF": 0,
+                "hpP": 0,
+                "atkF": 16,
+                "atkP": 4.1,
+                "defF": 0,
+                "defP": 0,
+                "em": 58,
+                "er": 0,
+                "crit_rate": 10.5,
+                "crit_dmg": 0
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "BLIZZARD_STRAYER",
+            "main": "CRYO",
+            "subs": {
+                "hpF": 0,
+                "hpP": 0,
+                "atkF": 0,
+                "atkP": 0,
+                "defF": 46,
+                "defP": 0,
+                "em": 33,
+                "er": 11.7,
+                "crit_rate": 7.4,
+                "crit_dmg": 0
+            }
+        }
+    ]
+}

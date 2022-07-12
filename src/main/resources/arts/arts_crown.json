@@ -1,0 +1,327 @@
+{
+    "list": [
+        {
+            "lvl": 20,
+            "set": "HUSK_OF_OPULENT_DREAMS",
+            "main": "CRIT_RATE",
+            "subs": {
+                "hpF": 0,
+                "hpP": 0,
+                "atkF": 0,
+                "atkP": 0,
+                "defF": 42,
+                "defP": 12.4,
+                "em": 16,
+                "er": 0,
+                "crit_rate": 0,
+                "crit_dmg": 20.2
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "EMBLEM_OF_SEVERED_FATE",
+            "main": "CRIT_DMG",
+            "subs": {
+                "hpF": 269,
+                "hpP": 0,
+                "atkF": 0,
+                "atkP": 0,
+                "defF": 39,
+                "defP": 19,
+                "em": 0,
+                "er": 0,
+                "crit_rate": 7,
+                "crit_dmg": 0
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "EMBLEM_OF_SEVERED_FATE",
+            "main": "CRIT_RATE",
+            "subs": {
+                "hpF": 0,
+                "hpP": 23.9,
+                "atkF": 0,
+                "atkP": 5.3,
+                "defF": 16,
+                "defP": 0,
+                "em": 0,
+                "er": 0,
+                "crit_rate": 0,
+                "crit_dmg": 7
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "HEART_OF_DEPTH",
+            "main": "CRIT_DMG",
+            "subs": {
+                "hpF": 209,
+                "hpP": 0,
+                "atkF": 14,
+                "atkP": 16.9,
+                "defF": 0,
+                "defP": 0,
+                "em": 0,
+                "er": 0,
+                "crit_rate": 7,
+                "crit_dmg": 0
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "HEART_OF_DEPTH",
+            "main": "CRIT_DMG",
+            "subs": {
+                "hpF": 0,
+                "hpP": 8.7,
+                "atkF": 0,
+                "atkP": 0,
+                "defF": 0,
+                "defP": 12.4,
+                "em": 40,
+                "er": 0,
+                "crit_rate": 0,
+                "crit_dmg": 12.4
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "BLOODSTAINED_CHIVALRY",
+            "main": "HEAL",
+            "subs": {
+                "hpF": 0,
+                "hpP": 8.7,
+                "atkF": 29,
+                "atkP": 15.2,
+                "defF": 0,
+                "defP": 0,
+                "em": 0,
+                "er": 0,
+                "crit_rate": 0,
+                "crit_dmg": 11.7
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "NOBLESSE_OBLIGE",
+            "main": "HP",
+            "subs": {
+                "hpF": 239,
+                "hpP": 0,
+                "atkF": 0,
+                "atkP": 10,
+                "defF": 42,
+                "defP": 0,
+                "em": 0,
+                "er": 10.4,
+                "crit_rate": 0,
+                "crit_dmg": 20.2
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "NOBLESSE_OBLIGE",
+            "main": "CRIT_RATE",
+            "subs": {
+                "hpF": 598,
+                "hpP": 0,
+                "atkF": 0,
+                "atkP": 9.9,
+                "defF": 32,
+                "defP": 0,
+                "em": 0,
+                "er": 0,
+                "crit_rate": 0,
+                "crit_dmg": 13.2
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "CRIMSON_WITCH_OF_FLAMES",
+            "main": "CRIT_DMG",
+            "subs": {
+                "hpF": 0,
+                "hpP": 0,
+                "atkF": 0,
+                "atkP": 0,
+                "defF": 16,
+                "defP": 0,
+                "em": 19,
+                "er": 13,
+                "crit_rate": 12.4,
+                "crit_dmg": 0
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "WANDERERS_TROUPE",
+            "main": "CRIT_RATE",
+            "subs": {
+                "hpF": 0,
+                "hpP": 21,
+                "atkF": 0,
+                "atkP": 5.3,
+                "defF": 37,
+                "defP": 0,
+                "em": 0,
+                "er": 0,
+                "crit_rate": 0,
+                "crit_dmg": 12.4
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "VIRIDESCENT_VENERER",
+            "main": "EM",
+            "subs": {
+                "hpF": 777,
+                "hpP": 0,
+                "atkF": 0,
+                "atkP": 0,
+                "defF": 32,
+                "defP": 13.1,
+                "em": 0,
+                "er": 0,
+                "crit_rate": 6.6,
+                "crit_dmg": 0
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "GLADIATORS_FINALE",
+            "main": "CRIT_RATE",
+            "subs": {
+                "hpF": 299,
+                "hpP": 0,
+                "atkF": 0,
+                "atkP": 0,
+                "defF": 35,
+                "defP": 28.4,
+                "em": 0,
+                "er": 0,
+                "crit_rate": 0,
+                "crit_dmg": 13.2
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "GLADIATORS_FINALE",
+            "main": "CRIT_RATE",
+            "subs": {
+                "hpF": 0,
+                "hpP": 0,
+                "atkF": 0,
+                "atkP": 0,
+                "defF": 23,
+                "defP": 0,
+                "em": 23,
+                "er": 12.3,
+                "crit_rate": 0,
+                "crit_dmg": 28.7
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "GLADIATORS_FINALE",
+            "main": "CRIT_RATE",
+            "subs": {
+                "hpF": 448,
+                "hpP": 18.1,
+                "atkF": 0,
+                "atkP": 0,
+                "defF": 21,
+                "defP": 0,
+                "em": 0,
+                "er": 0,
+                "crit_rate": 0,
+                "crit_dmg": 5.4
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "MAIDEN_BELOVED",
+            "main": "HEAL",
+            "subs": {
+                "hpF": 0,
+                "hpP": 0,
+                "atkF": 0,
+                "atkP": 12.8,
+                "defF": 16,
+                "defP": 12.4,
+                "em": 0,
+                "er": 11,
+                "crit_rate": 0,
+                "crit_dmg": 0
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "LAVAWALKER",
+            "main": "CRIT_RATE",
+            "subs": {
+                "hpF": 448,
+                "hpP": 4.7,
+                "atkF": 0,
+                "atkP": 0,
+                "defF": 0,
+                "defP": 0,
+                "em": 61,
+                "er": 0,
+                "crit_rate": 0,
+                "crit_dmg": 13.2
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "THUNDERSOOTHER",
+            "main": "HEAL",
+            "subs": {
+                "hpF": 717,
+                "hpP": 11.7,
+                "atkF": 0,
+                "atkP": 0,
+                "defF": 46,
+                "defP": 0,
+                "em": 21,
+                "er": 0,
+                "crit_rate": 0,
+                "crit_dmg": 0
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "BLIZZARD_STRAYER",
+            "main": "CRIT_DMG",
+            "subs": {
+                "hpF": 478,
+                "hpP": 0,
+                "atkF": 0,
+                "atkP": 9.9,
+                "defF": 0,
+                "defP": 0,
+                "em": 0,
+                "er": 10.4,
+                "crit_rate": 8.9,
+                "crit_dmg": 0
+            }
+        },
+        {
+            "lvl": 20,
+            "set": "BLIZZARD_STRAYER",
+            "main": "CRIT_DMG",
+            "subs": {
+                "hpF": 538,
+                "hpP": 0,
+                "atkF": 0,
+                "atkP": 14,
+                "defF": 0,
+                "defP": 11.7,
+                "em": 0,
+                "er": 5.2,
+                "crit_rate": 0,
+                "crit_dmg": 0
+            }
+        }
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "set0": {
+        "name": "NONE",
+        "eng": "None",
+        "rus": "Нет"
+    },
+    "set1": {
+        "name": "ADVENTURER",
+        "eng": "Adventurer",
+        "rus": "Искатель приключений"
+    },
+    "set2": {
+        "name": "LUCKY_DOG",
+        "eng": "Lucky dog",
+        "rus": "Везунчик"
+    },
+    "set3": {
+        "name": "TRAVELING_DOCTOR",
+        "eng": "Traveling doctor",
+        "rus": "Целитель"
+    },
+    "set4": {
+        "name": "RESOLUTION_OF_SOJOURNER",
+        "eng": "Resolution of sojourner",
+        "rus": "Решимость временщика"
+    },
+    "set5": {
+        "name": "TINY_MIRACLE",
+        "eng": "Tiny miracle",
+        "rus": "Маленькое чудо"
+    },
+    "set6": {
+        "name": "BERSERKER",
+        "eng": "Berserker",
+        "rus": "Берсерк"
+    },
+    "set7": {
+        "name": "INSTRUCTOR",
+        "eng": "Instructor",
+        "rus": "Инструктор"
+    },
+    "set8": {
+        "name": "THE_EXILE",
+        "eng": "The exile",
+        "rus": "Изгнанник"
+    },
+    "set9": {
+        "name": "DEFENDERS_WILL",
+        "eng": "Defenders will",
+        "rus": "Воля защитника"
+    },
+    "set10": {
+        "name": "BRAVE_HEART",
+        "eng": "Brave heart",
+        "rus": "Душа храбреца"
+    },
+    "set11": {
+        "name": "MARTIAL_ARTIST",
+        "eng": "Martial artist",
+        "rus": "Воин"
+    },
+    "set12": {
+        "name": "GAMBLER",
+        "eng": "Gambler",
+        "rus": "Азартный игрок"
+    },
+    "set13": {
+        "name": "SCHOLAR",
+        "eng": "Scholar",
+        "rus": "Учёный"
+    },
+    "set14": {
+        "name": "GLADIATORS_FINALE",
+        "eng": "Gladiators finale",
+        "rus": "Конец гладиатора"
+    },
+    "set15": {
+        "name": "WANDERERS_TROUPE",
+        "eng": "Wanderers troupe",
+        "rus": "Странствующий ансамбль"
+    },
+    "set16": {
+        "name": "THUNDERSOOTHER",
+        "eng": "Thundersoother",
+        "rus": "Усмиряющий гром"
+    },
+    "set17": {
+        "name": "THUNDERING_FURY",
+        "eng": "Thundering fury",
+        "rus": "Громогласный рёв ярости"
+    },
+    "set18": {
+        "name": "MAIDEN_BELOVED",
+        "eng": "Maiden beloved",
+        "rus": "Возлюбленная юная дева"
+    },
+    "set19": {
+        "name": "VIRIDESCENT_VENERER",
+        "eng": "Viridescent venerer",
+        "rus": "Изумрудная тень"
+    },
+    "set20": {
+        "name": "CRIMSON_WITCH_OF_FLAMES",
+        "eng": "Crimson witch of flames",
+        "rus": "Горящая алая ведьма"
+    },
+    "set21": {
+        "name": "LAVAWALKER",
+        "eng": "Lavawalker",
+        "rus": "Ступающий по лаве"
+    },
+    "set22": {
+        "name": "NOBLESSE_OBLIGE",
+        "eng": "Noblesse oblige",
+        "rus": "Церемония древней знати"
+    },
+    "set23": {
+        "name": "BLOODSTAINED_CHIVALRY",
+        "eng": "Bloodstained chivalry",
+        "rus": "Рыцарь крови"
+    },
+    "set24": {
+        "name": "ARCHAIC_PETRA",
+        "eng": "Archaic petra",
+        "rus": "Архаичный камень"
+    },
+    "set25": {
+        "name": "RETRACING_BOLIDE",
+        "eng": "Retracing bolide",
+        "rus": "Встречная комета"
+    },
+    "set26": {
+        "name": "BLIZZARD_STRAYER",
+        "eng": "Blizzard strayer",
+        "rus": "Заблудший в метели"
+    },
+    "set27": {
+        "name": "HEART_OF_DEPTH",
+        "eng": "Heart of depth",
+        "rus": "Сердце глубин"
+    },
+    "set28": {
+        "name": "TENACITY_OF_THE_MILLELITH",
+        "eng": "Tenacity of the millelith",
+        "rus": "Стойкость Миллелита"
+    },
+    "set29": {
+        "name": "PALE_FLAME",
+        "eng": "Pale flame",
+        "rus": "Бледный огонь"
+    },
+    "set30": {
+        "name": "SHIMENAWAS_REMINISCENCE",
+        "eng": "Shimenawas reminiscence",
+        "rus": "Воспоминания Симэнавы"
+    },
+    "set31": {
+        "name": "EMBLEM_OF_SEVERED_FATE",
+        "eng": "Emblem of severed fate",
+        "rus": "Эмблема рассечённой судьбы"
+    },
+    "set32": {
+        "name": "HUSK_OF_OPULENT_DREAMS",
+        "eng": "Husk of opulent dreams",
+        "rus": "Кокон сладких грёз"
+    },
+    "set33": {
+        "name": "OCEAN_HUED_CLAM",
+        "eng": "Ocean hued clam",
+        "rus": "Моллюск морских красок"
+    }
+}
